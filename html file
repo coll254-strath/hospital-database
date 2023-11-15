@@ -50,10 +50,11 @@
             <input type="checkbox" name="terms">
             I agree to the terms and conditions
         </label>
-
+<textarea id="DoctorsComments" name="comments" rows="4" cols="50"></textarea>
+  <br>
         <br>
 
-        <button>Send</button>
+        <button>Submit</button>
 
     </form>
 
